@@ -1,3 +1,26 @@
+
+#files to ignore
+
+18.3.3_Shopping.ipynb
+18.4.2_Shopping.ipynb
+18.5.2_Iris.ipynb
+18.6.3_Iris.ipynb
+18.Iris.ipynb
+18.Shopping.ipynb
+crypto_clustering_starter_code.ipynb
+d1_crypto_clustering.ipynb
+pcaout.csv
+crypto_data_testingDELETE.csv
+Resources/iris.csv
+Resources/new_iris_data.csv
+Resources/shopping_data.csv
+Resources/shopping_data_cleaned.csv
+
+
+
+
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
